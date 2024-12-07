@@ -1,4 +1,4 @@
-# Aplicação React de Gerenciamento de Projetos e Tarefas
+# Aplicação React para Atividade MODULO 10
 
 Projeto criado com as bibliotecas React JS e Material UI.
 
